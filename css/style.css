@@ -1,0 +1,27 @@
+body{
+    background-color: hotpink;
+    
+}
+h1{ 
+    position: absolute;
+    top: 30%;
+    color:orange;
+    font-size: xxx-large;
+    
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    transform: translate((-50%, -50%));
+    color: greenyellow;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+img{
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+
+
